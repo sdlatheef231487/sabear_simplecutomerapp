@@ -8,3 +8,4 @@
 6) create a new repo in nexus with version policy as "snapshot"
 7) modiy the pipeline as per our sonarscanner name and sonarqube server name
 hello
+hello again
