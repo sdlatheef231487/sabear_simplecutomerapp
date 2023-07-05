@@ -9,3 +9,4 @@
 7) modiy the pipeline as per our sonarscanner name and sonarqube server name
 ok then
 no yet
+is it done or not
